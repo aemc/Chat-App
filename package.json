@@ -1,15 +1,15 @@
 {
-  "name": "iochat",
+  "name": "chatapp2",
   "version": "1.0.0",
-  "description": "simple chat app",
-  "main": "server.js",
+  "description": "my first socket.io app",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "*",
-    "express": "*"
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
   }
 }
