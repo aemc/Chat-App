@@ -5,7 +5,7 @@ Personal Project. In progress...
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You will need to install NodeJS, Express, and MongoDB. See below for links.
+You will need to install Node.js, Express, and MongoDB. See below for links.
 
 ### Installing
 Clone or download the source code and run ```$ node app.js``` within the root directory.
