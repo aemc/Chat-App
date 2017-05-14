@@ -54,6 +54,6 @@ io.on('connection', (socket) => {
 });
 
 // listener
-http.listen(process.env.PORT, process.env.IP, () => {
-    console.log('Listening on cloud9 port');
+http.listen(3000, () => {
+    console.log('Listening on port 3000');
 });
